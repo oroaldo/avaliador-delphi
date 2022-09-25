@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/07 18:16:04.000.628,=C:\Users\oroaldo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/07 18:16:30.000.901,=C:\Users\oroaldo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/07 18:16:52.000.531,=C:\Users\oroaldo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/09/07 18:19:01.000.981,C:\Users\oroaldo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Suporte\votacao\unitPrincipal.pas</Transaction>
+    <Transaction>2022/09/07 18:19:01.000.981,C:\Users\oroaldo\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Suporte\votacao\unitPrincipal.fmx</Transaction>
+    <Transaction>2022/09/07 18:19:07.000.303,C:\Users\oroaldo\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Suporte\votacao\unitDM.pas</Transaction>
+    <Transaction>2022/09/07 18:19:07.000.303,C:\Users\oroaldo\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Suporte\votacao\unitDM.dfm</Transaction>
+    <Transaction>2022/09/07 18:19:21.000.300,C:\Users\oroaldo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Suporte\votacao\avaliador.dproj</Transaction>
+    <Transaction>2022/09/25 14:08:08.000.943,=C:\Suporte\votacao\Units\uSuperChartLight.pas</Transaction>
+    <Transaction>2022/09/25 16:47:00.034,C:\Suporte\votacao\Units\uSuperChartLight.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
